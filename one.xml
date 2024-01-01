@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<foodlist>
-    <fooditem>
+<foodList>
+    <foodItem type="Italian">
         <name>Pizza</name>
         <cost>$8</cost>
-    </fooditem>
-    <fooditem>
-        <name>Burger</name>
-        <cost>$4</cost>
-    </fooditem>
-    <fooditem>
-        <name>Steak</name>
-        <cost>$18</cost>
-    </fooditem>
-    <fooditem>
+    </foodItem>
+    <foodItem  type="Pakistani"> 
         <name>Biryani</name>
         <cost>$10</cost>
-    </fooditem>
-</foodlist>
+    </foodItem>
+    <foodItem type="American">
+        <name>Burger</name>
+        <cost>$4</cost>
+    </foodItem>
+    <foodItem type="American">
+        <name>Steak</name>
+        <cost>$12</cost>
+    </foodItem>
+</foodList>

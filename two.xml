@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<orgainization>
+    <e:department xmlns:e="https://www.engro.com/employees">
+        <e:name>Imama</e:name>
+        <e:age>18</e:age>
+        <e:salary>20000</e:salary>
+    </e:department>
+
+    <e:department xmlns:e="https://www.engro.com/employees">
+        <e:name>Bushra</e:name>
+        <e:age>17</e:age>
+        <e:salary>30000</e:salary>
+    </e:department>
+
+    <hr:department xmlns:hr="https://www.engro.com/hr">
+        <hr:name>Ammna</hr:name>
+        <hr:age>18</hr:age>
+        <hr:salary>40000</hr:salary>
+    </hr:department>
+</orgainization>

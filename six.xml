@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="six.xsl" type="text/xsl"?>
+
+<collection>
+    <cds>
+        <Title>Empire Burlesque</Title>
+        <artist>Bob Dylan</artist>
+    </cds>
+    <cds>
+        <Title>Hide Your Heart</Title>
+        <artist>Bonnie Tyler</artist>
+    </cds>
+    <cds>
+        <Title>Greatest Hits</Title>
+        <artist>Dolly Parton</artist>
+    </cds>
+    <cds>
+        <Title>Still Got The Blue</Title>
+        <artist>Gray Moore</artist>
+    </cds>
+    <cds>
+        <Title>Eros</Title>
+        <artist>Eros Romazzotti</artist>
+    </cds>
+    <cds>
+        <Title>One Night Only</Title>
+        <artist>Bee Gees</artist>
+    </cds>
+    <cds>
+        <Title>Sylvais Mother</Title>
+        <artist>Dr.Hook</artist>
+    </cds>
+    <cds>
+        <Title>Maggie May</Title>
+        <artist>Rod Stewart</artist>
+    </cds>
+    <cds>
+        <Title>Romanza</Title>
+        <artist>Adrea Bocelli</artist>
+    </cds>
+    <cds>
+        <Title>When a Man Loves a Woman</Title>
+        <artist>Parcy Sledge</artist>
+    </cds>
+    <cds>
+        <Title>Black Angel</Title>
+        <artist>Savage Rose</artist>
+    </cds>
+    <cds>
+        <Title>1999 Grammy</Title>
+        <artist>Many</artist>
+    </cds>
+    <cds>
+        <Title>For The Good Times</Title>
+        <artist>kenny Roggers</artist>
+    </cds>
+    <cds>
+        <Title>Big Willie Style</Title>
+        <artist>Will Smith</artist>
+    </cds>
+    <cds>
+        <Title>Tupelo Honey</Title>
+        <artist>Van Morrison</artist>
+    </cds>
+    <cds>
+        <Title>SoulSvile</Title>
+        <artist>Jorn Huel</artist>
+    </cds>
+    <cds>
+        <Title>The very best of</Title>
+        <artist>Cat Stevens</artist>
+    </cds>
+    <cds>
+        <Title>Stop</Title>
+        <artist>Sam Brown</artist>
+    </cds>
+    <cds>
+        <Title>Bridge of Spies</Title>
+        <artist>T-Pau</artist>
+    </cds>
+    
+</collection>

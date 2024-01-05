@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="five.xsl" type="text/xsl"?>
+
+<bank>
+    <employee>
+        <id>00102</id>
+        <name>Asim</name>
+        <salary>500000</salary>
+        <joining-date>2-1-2024</joining-date>
+        <position>MANAGER</position>
+    </employee>
+    <employee>
+        <id>00103</id>
+        <name>Hashim</name>
+        <salary>600000</salary>
+        <joining-date>3-12-2023</joining-date>
+        <position>MANAGER</position>
+    </employee>
+    <employee>
+        <id>00104</id>
+        <name>Basim</name>
+        <salary>700000</salary>
+        <joining-date>23-11-2023</joining-date>
+        <position>CEO</position>
+    </employee>
+    <employee>
+        <id>00105</id>
+        <name>Wasim</name>
+        <salary>550000</salary>
+        <joining-date>2-11-2023</joining-date>
+        <position>MANAGER</position>
+    </employee>
+    <employee>
+        <id>00106</id>
+        <name>Qasim</name>
+        <salary>230000</salary>
+        <joining-date>2-9-2023</joining-date>
+        <position>MD</position>
+    </employee>
+</bank>

@@ -20,7 +20,7 @@
 
                 }
                 table{
-                    margin-left:450px;
+                    margin-left:550px;
                 }
                 table th{
                     font-size:20px;

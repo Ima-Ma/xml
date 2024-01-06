@@ -11,7 +11,7 @@
                         color:white;
                     }
                     table{
-                        margin-left:530px;
+                        margin-left:630px;
                         margin-top:50px;
                         box-shadow:3px 3px 4px 4px teal;
                     }

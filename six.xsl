@@ -15,15 +15,13 @@
                 padding:10px;
             }
             table{
-                margin-left:500px;
+                margin-left:630px;
             }
             table th{
                 font-size:30px;
                 text-align:center;
             }
-            table td{
-                text-align:center;
-            }
+            
         </style>
         <body>
             <h1>MY CD'S Collection</h1>

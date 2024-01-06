@@ -11,7 +11,7 @@
                         color:white;
                     }
                     table{
-                        margin-left:450px;
+                        margin-left:550px;
                         box-shadow:3px 3px 4px 5px gray;
                     }
                     h1{
